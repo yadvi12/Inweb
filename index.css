@@ -1,0 +1,153 @@
+*{
+    box-sizing: border-box;
+  }
+  
+  /* Style the body */
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+  }
+  
+  /* Header/logo Title */
+  .header {
+    padding: 2px;
+    text-align: left;
+    background: #fa7979;
+    color: white;
+  }
+  .header img
+  {
+      height:10%;
+      width:10%;
+  }
+  
+  /* Increase the font size of the heading */
+  .header h1 {
+    font-size: 40px;
+  }
+  
+  /* Sticky navbar */
+  .navbar {
+    overflow: hidden;
+    background-color: rgb(17, 17, 17);
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+  }
+  
+  /* Style the navigation bar links */
+  .navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+  }
+  
+  
+  /* Right-aligned link */
+  .navbar a.right {
+    float: right;
+  }
+  
+  /* Change color on hover */
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Active/current link */
+  .navbar a.active {
+    background-color: #666;
+    color: white;
+  }
+  
+  /* Column container */
+  .row {  
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    -ms-flex-wrap: wrap; /* IE10 */
+    flex-wrap: wrap;
+  }
+  
+  /* Create two unequal columns that sits next to each other */
+  /* Sidebar/left column */
+  .side {
+    -ms-flex: 20%; /* IE10 */
+    flex: 20%;
+    background-color: #f1f1f1;
+    padding: 30px;
+  }
+  
+  /* Main column */
+  .main {   
+    -ms-flex: 80%; /* IE10 */
+    flex: 80%;
+    background-color: white;
+    padding: 20px;
+  }
+  
+
+  .fakeimg {
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
+  }
+  
+  /* Footer */
+  .footer {
+    padding: 20px;
+    text-align: center;
+    background: rgb(255, 192, 192);
+  }
+  /*social*/
+  .social{
+ 
+    bottom:0;
+    
+   
+    
+   }
+   
+   .social img{
+    display: inline;
+    width:3%;
+    margin-left: 2%;
+    border-radius: 150px;
+    background:rgb(254, 255, 255) ;
+   
+   
+   
+    -webkit-transform: height,width,transform;
+          -o-transform: height,width,transform;
+          -moz-transform: height,width,transform;
+          transform: height,width,transform;
+          -webkit-transition-duration: .5s,.5s,.5s;
+          -o-transition-duration: .5s,.5s,.5s;
+          -moz-transition-duration: .5s,.5s,.5s;
+          transition-duration: .5s,.5s,.5s;    
+   }
+   .social img:hover{
+    -webkit-transform: rotate(360deg);
+      -o-transform: rotate(360deg);
+      -moz-transform: rotate(360deg);
+      transform: rotate(360deg);
+      background: rgb(148, 248, 81);
+   
+   }
+  
+  /* Responsive layout */
+  @media screen and (max-width: 700px) {
+    .row {   
+      flex-direction: column;
+    }
+  }
+  
+  /* Responsive layout */
+  @media screen and (max-width: 400px) {
+    .navbar a {
+      float: none;
+      width: 100%;
+    }
+  }
