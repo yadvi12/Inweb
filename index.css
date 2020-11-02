@@ -4,15 +4,16 @@
   
   /* Style the body */
   body {
-    font-family: Arial, Helvetica, sans-serif;
+    /* font-family: Arial, Helvetica, sans-serif; */
     margin: 0;
+    font-family: 'Roboto Slab', serif;
   }
   
   /* Header/logo Title */
   .header {
     padding: 2px;
     text-align: left;
-    background: #fa7979;
+    background: #16a596;
     color: white;
   }
   .header img
@@ -20,10 +21,15 @@
       height:10%;
       width:10%;
   }
+  h2 {
+    font-family: 'Raleway', sans-serif;
+     font-size: 20px;
+  }
   
   /* Increase the font size of the heading */
   .header h1 {
-    font-size: 40px;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
   }
   
   /* Sticky navbar */
@@ -76,7 +82,7 @@
   .side {
     -ms-flex: 20%; /* IE10 */
     flex: 20%;
-    background-color: #f1f1f1;
+    background-color: #698474;
     padding: 30px;
   }
   
@@ -84,7 +90,7 @@
   .main {   
     -ms-flex: 80%; /* IE10 */
     flex: 80%;
-    background-color: white;
+    background-color: #698474;
     padding: 20px;
   }
   
@@ -99,7 +105,7 @@
   .footer {
     padding: 20px;
     text-align: center;
-    background: rgb(255, 192, 192);
+    background: #16a596;
   }
   /*social*/
   .social{
@@ -112,10 +118,10 @@
    
    .social img{
     display: inline;
-    width:3%;
+    width:2%;
     margin-left: 2%;
     border-radius: 150px;
-    background:rgb(254, 255, 255) ;
+    background:rgb(254, 255, 255)s ;
    
    
    
@@ -133,7 +139,7 @@
       -o-transform: rotate(360deg);
       -moz-transform: rotate(360deg);
       transform: rotate(360deg);
-      background: rgb(148, 248, 81);
+      background: #698474;
    
    }
   
