@@ -1,1 +1,1 @@
-<h1 align="center"><b> TEAM CODEOVERFLOW INITIATIVE </b></h1>
+<h1 align="center"><b> TEAM CODE CLAN INITIATIVE </b></h1>
