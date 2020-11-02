@@ -1,7 +1,7 @@
 <h1 align="center"><b> TEAM CODE CLAN INITIATIVE </b></h1>
 <p align="center">
     <a href="" target="_blank">
-        <img width="30%" height="50%" src="vl.png" alt="">
+        <img width="30%" height="50%" src="preksha.png" alt="">
     </a>
    </p>
   <div align="center">  
