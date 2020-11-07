@@ -56,7 +56,7 @@ The Project is released under the terms of the [MIT License](LICENSE).
   <tr>
        <td align="center"><a href=""><img src="/images/WhatsApp Image 2020-11-07 at 4.53.22 PM.jpeg" width="210px;" height="230px;" alt=""/><br /><sub><b>PRANJAY PODDAR</b></sub></a><br /><p align="center">
     
-   <a href="https://www.linkedin.com/in/ananya-negi-42922018a" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+   <a href="" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
     <a href="" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
@@ -83,7 +83,7 @@ The Project is released under the terms of the [MIT License](LICENSE).
   
    <td align="center"><a href=""><img src="/images/WhatsApp Image 2020-11-07 at 5.07.38 PM.jpeg" width="210px;" height="230px;" alt=""/><br /><sub><b>ARPITA CHATTERJEE</b></sub></a><br /><p align="center">
     
-   <a href="https://www.linkedin.com/in/ananya-negi-42922018a" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+   <a href="" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
     <a href="" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
