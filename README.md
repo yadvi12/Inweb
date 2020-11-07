@@ -63,7 +63,8 @@ The Project is released under the terms of the [MIT License](LICENSE).
   </p>
 </td>
       
-   
+  <br>
+  <br>
    
    <td align="center"><a href=""><img src="/images/WhatsApp Image 2020-11-07 at 5.02.01 PM.jpeg" width="210px;" height="230px;"  alt=""/><br /><sub><b>ABHUDAY MISHRA</b></sub></a><br />
 <p align="center">
