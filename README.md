@@ -16,6 +16,10 @@
 <div align = "">
  <img width="80%" height="70%" src="Capture.PNG" alt="">
 </div>
+<div align = "">
+ <img width="80%" height="70%" src="c.PNG" alt="">
+</div>
+
 
 ## COMMUNITY AND CONTRIBUTIONS:
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Please note we have a code of conduct, follow it in all your interactions with the project.
