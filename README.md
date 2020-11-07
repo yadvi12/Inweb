@@ -19,9 +19,7 @@ PREKSHA - A web-app which will help students in their studies, it includes all t
 <div align = "">
  <img width="80%" height="70%" src="Capture.PNG" alt="">
 </div>
-<div align = "">
- <img width="80%" height="70%" src="c.PNG" alt="">
-</div>
+
 <div align = "">
  <img width="80%" height="70%" src="contact.PNG" alt="">
 </div>
