@@ -20,6 +20,9 @@
  <img width="80%" height="70%" src="c.PNG" alt="">
 </div>
 
+## About:
+PREKSHA - a web-app which will help students in their studies, like it will include all the elab solutions, books to refer, notes and career guidance also, and anyone from srm can upload notes in it. We might include a digital library in the web-app if possible.
+
 ## Languages and Frameworks used:
 
  <div>
