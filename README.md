@@ -9,7 +9,7 @@
   ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
  ![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)
   ![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)
-  [![forthebadge](https://forthebadge.com/images/badges/powered-by-code-clan.svg)](https://forthebadge.com)
+
 
 </div>
 
