@@ -41,8 +41,7 @@ Feel free to **file a new issue** with a respective title and description on the
 ## Licence:
 The Project is released under the terms of the [MIT License](LICENSE).
 
-</br>
-</br>
+
 
 <div align="center">
     <a href="https://allcontributors.org">
