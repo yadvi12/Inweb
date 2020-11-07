@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Share:400,700&subset=latin,latin-ext);
+
+.card-holder {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 30px;
+}
+
+.year-heading {
+  padding-top: 100px;
+  padding-bottom: 0;
+}
+
+@media only screen and (max-width: 768px) {
+  .card {
+    margin-bottom: 20px;
+  }
+  .card-holder {
+    padding-top: 0;
+  }
+}
