@@ -58,16 +58,16 @@ The Project is released under the terms of the [MIT License](LICENSE).
 
 <table>
   <tr>
-       <td align="center"><a href=""><img src="/images/WhatsApp Image 2020-11-07 at 4.53.22 PM.jpeg" width="210px;" height="230px;" alt=""/><br /><sub><b>PRANJAY PODDAR</b></sub></a><br ><p align="center">
-    
-   <a href="" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+       <td align="center"><a href=""><img src="/images/WhatsApp Image 2020-11-07 at 4.53.22 PM.jpeg" width="210px;" height="180px;" alt=""/><br /><sub><b>PRANJAY PODDAR</b></sub></a><br ><p align="center">
+   
+   <a href="https://www.linkedin.com/in/pranjay-poddar/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:pranjaypoddar@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://medium.com/@pranjaypoddar" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
 </td>
       
   
-   <td align="center"><a href=""><img src="/images/WhatsApp Image 2020-11-07 at 5.02.01 PM.jpeg" width="210px;" height="230px;"  alt=""/><br /><sub><b>ABHUDAY MISHRA</b></sub></a><br />
+   <td align="center"><a href=""><img src="/images/WhatsApp Image 2020-11-07 at 5.02.01 PM.jpeg" width="210px;" height="180px;" alt=""/><br /><sub><b>ABHUDAY MISHRA</b></sub></a><br />
 <p align="center">
     
    <a href="" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
@@ -76,7 +76,7 @@ The Project is released under the terms of the [MIT License](LICENSE).
   </p>
 </td>
 
-<td align="center"><a href="https://github.com/yadvi12"><img src="/images/60046892.jpg" width="220px;" height="230px;" alt=""/><br /><sub><b>YADVI BHALLA</b></sub></a><br />
+<td align="center"><a href="https://github.com/yadvi12"><img src="/images/60046892.jpg" width="220px;" height="180px;" alt=""/><br /><sub><b>YADVI BHALLA</b></sub></a><br />
     <p align="center">
    
    <a href="https://www.linkedin.com/in/yadvibhalla1210" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
@@ -85,7 +85,7 @@ The Project is released under the terms of the [MIT License](LICENSE).
   </p>
   </td>
   
-   <td align="center"><a href=""><img src="/images/WhatsApp Image 2020-11-07 at 5.07.38 PM.jpeg" width="230px;" height="230px;" alt=""/><br /><sub><b>ARPITA CHATTERJEE</b></sub></a><br /><p align="center">
+   <td align="center"><a href=""><img src="/images/WhatsApp Image 2020-11-07 at 5.07.38 PM.jpeg" width="230px;" height="180px;" alt=""/><br /><sub><b>ARPITA CHATTERJEE</b></sub></a><br /><p align="center">
     
    <a href="" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
@@ -93,7 +93,7 @@ The Project is released under the terms of the [MIT License](LICENSE).
   </p>
 </td>
 
-<td align="center"><a href=""><img src="WhatsApp Image 2020-11-07 at 5.34.07 PM.jpeg" width="230px;" height="230px;" alt=""/><br /><sub><b>KRETTIKA VARSHNEY</b></sub></a><br /><p align="center">
+<td align="center"><a href=""><img src="WhatsApp Image 2020-11-07 at 5.34.07 PM.jpeg" width="230px;" height="180px;" alt=""/><br /><sub><b>KRETTIKA VARSHNEY</b></sub></a><br /><p align="center">
     
    <a href="" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
