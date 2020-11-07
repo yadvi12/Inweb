@@ -14,6 +14,9 @@ app.set('view engine', 'ejs')
 app.get('/', (req,res)=>{
    res.render('index', {page:'index'})
 })
+app.get('/index', (req,res)=>{
+   res.render('index', {page:'index'})
+})
 app.get('/signup', (req,res)=>{
     res.render('signup', {page:'signup'})
  })
@@ -32,6 +35,9 @@ app.get('/signup', (req,res)=>{
  app.get('/samplepaper', (req,res)=>{
     res.render('samplepaper', {page:'samplepaper'})
  })
+ app.get('/contact', (req,res)=>{
+   res.render('contact', {page:'contact'})
+})
 
 app.listen(port,(err)=>{
     if(err){console.log(err)}

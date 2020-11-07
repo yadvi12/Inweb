@@ -1,98 +1,215 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Preksha</title>
+    <link rel="stylesheet" href="css/index.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+      integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2"
+      crossorigin="anonymous"
+    />
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="UTF-8">
-  <meta content="width=device-width, initial-scale=1" name="viewport" />
-  <script src="js/index.ejs"></script>
-  <link rel="manifest" href="./manifest.webmanifest">
-  <title>Preksha</title>
-  <link href="https://fonts.googleapis.com/css2?family=Raleway&family=Roboto+Slab&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="shortcut icon" type="image/x-icon" href="./images/logo.png" />
-  <link rel="stylesheet" href="css/index.css">
-</head>
+    <script src="js/index.js"></script>
+    <!-- Start of Async Drift Code -->
+    <script>
+      "use strict";
 
-<body>
+      !(function () {
+        var t = (window.driftt = window.drift = window.driftt || []);
+        if (!t.init) {
+          if (t.invoked)
+            return void (
+              window.console &&
+              console.error &&
+              console.error("Drift snippet included twice.")
+            );
+          (t.invoked = !0),
+            (t.methods = [
+              "identify",
+              "config",
+              "track",
+              "reset",
+              "debug",
+              "show",
+              "ping",
+              "page",
+              "hide",
+              "off",
+              "on",
+            ]),
+            (t.factory = function (e) {
+              return function () {
+                var n = Array.prototype.slice.call(arguments);
+                return n.unshift(e), t.push(n), t;
+              };
+            }),
+            t.methods.forEach(function (e) {
+              t[e] = t.factory(e);
+            }),
+            (t.load = function (t) {
+              var e = 3e5,
+                n = Math.ceil(new Date() / e) * e,
+                o = document.createElement("script");
+              (o.type = "text/javascript"),
+                (o.async = !0),
+                (o.crossorigin = "anonymous"),
+                (o.src =
+                  "https://js.driftt.com/include/" + n + "/" + t + ".js");
+              var i = document.getElementsByTagName("script")[0];
+              i.parentNode.insertBefore(o, i);
+            });
+        }
+      })();
+      drift.SNIPPET_VERSION = "0.3.1";
+      drift.load("yu4rb8tc262r");
+    </script>
+    <!-- End of Async Drift Code -->
+  </head>
 
-  <div class="header">
-    <center>
-      <h1>Preksha</h1>
-      <h2>A Profound Vision for Students</h2>
-    </center>
-
-  </div>
-
-  <div class="topnav" id="myTopnav">
-    <a href="./index.html" class="active" onclick="navbar()">Home</a>
-    <a href="./signup/signup.html" target="_blank">Sign Up</a>
-    <a href="./Elab/elab.html">Elab Sols</a>
-    <a href="./library/library.html">library</a>
-    <a href="./notes/notes.html">Notes</a>
-    <a href="./sample papers/samplepaper.html">Sample Paper</a>
-    <a href="./PPTs/ppt.html">PPTS</a>
-    <a href="javascript:void(0);" class="icon" onclick="navbar()">
-      <i class="fa fa-bars"></i>
-    </a>
-  </div>
-  
-
-  <div class="row">
-    <div class="side">
-      <h2>About</h2>
-      <h5>lorem ipsum bla bla bla</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
-      <p>lorem ipsum bla bla bla</p>
-      <h3>text</h3>
-      <p>lorem ipsum bla bla bla</p>
-      <div class="fakeimg" style="height:60px;">Image</div><br>
-      <div class="fakeimg" style="height:60px;">Image</div><br>
-      <div class="fakeimg" style="height:60px;">Image</div>
+  <body>
+    <!-- <div id="splash">
+      <div class="anim">
+        <div id="loader">
+          <svg version="1.1" width="60px" height="70px" viewBox="0 0 60 70">
+            <defs>
+              <filter id="f1" x="0" y="0">
+                <feGaussianBlur in="SourceGraphic" stdDeviation="2" />
+              </filter>
+            </defs>
+            <g id="airplane">
+              <path
+                fill="#000"
+                d="M0.677,20.977l4.355,1.631c0.281,0.104,0.579,0.162,0.88,0.16l9.76-0.004L30.46,41.58c0.27,0.34,0.679,0.545,1.112,0.541
+                h1.87c0.992,0,1.676-0.992,1.322-1.918l-6.643-17.439l6.914,0.002l6.038,6.037c0.265,0.266,0.624,0.412,0.999,0.418l1.013-0.004
+                c1.004-0.002,1.684-1.012,1.312-1.938l-2.911-7.277l2.912-7.278c0.372-0.928-0.313-1.941-1.313-1.938h1.017
+                c-0.375,0-0.732,0.15-0.996,0.414l-6.039,6.039h-6.915l6.646-17.443c0.354-0.926-0.33-1.916-1.321-1.914l-1.87-0.004
+                c-0.439,0.004-0.843,0.203-1.112,0.543L15.677,17.24l-9.765-0.002c-0.3,0.002-0.597,0.055-0.879,0.16L0.678,19.03
+                C-0.225,19.36-0.228,20.637,0.677,20.977z"
+                transform="translate(44,0) rotate(90 0 0)"
+              />
+            </g>
+            <g id="shadow" transform="scale(.9)">
+              <path
+                fill="#000"
+                fill-opacity="0.3"
+                d="M0.677,20.977l4.355,1.631c0.281,0.104,0.579,0.162,0.88,0.16l9.76-0.004L30.46,41.58c0.27,0.34,0.679,0.545,1.112,0.541
+                    h1.87c0.992,0,1.676-0.992,1.322-1.918l-6.643-17.439l6.914,0.002l6.038,6.037c0.265,0.266,0.624,0.412,0.999,0.418l1.013-0.004
+                    c1.004-0.002,1.684-1.012,1.312-1.938l-2.911-7.277l2.912-7.278c0.372-0.928-0.313-1.941-1.313-1.938h1.017
+                    c-0.375,0-0.732,0.15-0.996,0.414l-6.039,6.039h-6.915l6.646-17.443c0.354-0.926-0.33-1.916-1.321-1.914l-1.87-0.004
+                    c-0.439,0.004-0.843,0.203-1.112,0.543L15.677,17.24l-9.765-0.002c-0.3,0.002-0.597,0.055-0.879,0.16L0.678,19.03
+                    C-0.225,19.36-0.228,20.637,0.677,20.977z"
+                transform="translate(64,30) rotate(90 0 0)"
+                filter="url(#f1)"
+              />
+            </g>
+          </svg>
+        </div>
+      </div>
+    </div> -->
+    <h1>Preksha</h1>
+    <h2>A Profound Vision for Students</h2>
+    <nav class="nav-collapse" role="navigation">
+      <ul class="tabs primary-nav">
+        <li class="tabs__item">
+          <a href="./index" class="tabs__link">Home</a>
+        </li>
+        <li class="tabs__item">
+          <a href="/notes" class="tabs__link">Notes</a>
+        </li>
+        <li class="tabs__item">
+          <a href="/solutions" class="tabs__link">Solutions</a>
+        </li>
+        <li class="tabs__item">
+          <a href="#" class="tabs__link">Career Guidance</a>
+        </li>
+        <li class="tabs__item">
+          <a href="/contact" class="tabs__link">Contact</a>
+        </li>
+      </ul>
+    </nav>
+  </body>
+  <section id="hero" class="d-flex align-items-center">
+    <div class="container">
+      <div class="row">
+        <div
+          class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center"
+        >
+          <h1 class="ml1" data-aos="fade-up">
+            <span class="text-wrapper">
+              <span class="line line1"></span>
+              <span class="letters">PREKSHA</span>
+              <span class="line line2"></span>
+            </span>
+          </h1>
+          <h2 data-aos="fade-up" data-aos-delay="400">
+            A team of budding developers working to develop resourceful
+            applications.
+          </h2>
+          <div style="display: flex; justify-content: space-around">
+            <div data-aos="fade-up" data-aos-delay="800">
+              <a href="/notes" class="btn-get-started scrollto">Notes</a>
+            </div>
+            <div data-aos="fade-up" data-aos-delay="800">
+              <a href="/elab" class="btn-get-started scrollto"
+                >ELab Solutions</a
+              >
+            </div>
+            <div data-aos="fade-up" data-aos-delay="800">
+              <a href="#" class="btn-get-started scrollto"
+                >Career Guidance</a
+              >
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-lg-6 order-1 order-lg-2 hero-img"
+          data-aos="fade-left"
+          data-aos-delay="200"
+        >
+          <img src="images/Job hunt-pana.png" class="img-fluid animated" alt="" />
+        </div>
+      </div>
     </div>
-    <div class="main">
-      <h2>heading</h2>
-      <h5>oops</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-      <p>some more text</p>
-      <br>
-      <h2>TITLE HEADING</h2>
-      <h5>dsa</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-      <p>bla bla bla bla bla bla bla</p>
-      <h2>heading</h2>
-      <h5>oops</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-      <p>some more text</p>
-      <br>
-      <h2>TITLE HEADING</h2>
-      <h5>dsa</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-      <p>bla bla bla bla bla bla bla</p>
-    </div>
-  </div>
-  <div class="footer">
-    <section class="social">
-      <h2> Contact Us</h2>
-      <a href="#" target="_blank"><img class="social-icons" src="./icons/twitter.png" alt="twitter icon"></a>
-      <a href="#" target="_blank"><img class="social-icons" src="./icons/facebook.png" alt="facebook icon"></a>
-      <!-- <a href="#" target="_blank"><img class="social-icons" src="./icons/instagram.png" alt="instagram icon"></a> -->
-      <a href="#" target="_blank"><img class="social-icons" src="./icons/linkedin.png" alt="linkedin icon"></a>
+  </section>
+  <script src="../index.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+  <script>
+    // Wrap every letter in a span
+    var textWrapper = document.querySelector(".ml1 .letters");
+    textWrapper.innerHTML = textWrapper.textContent.replace(
+      /\S/g,
+      "<span class='letter'>$&</span>"
+    );
 
-      <a href="#" target="_blank"><img class="social-icons" src="./icons/github.png" alt="github icon"></a>
-    </section>
-    <br>
-    <section class="credit">
-      <span id="credits"></span>Made with <span id="heart">❤</span> By Team Code Clan</span>
-
-    </section>
-  </div>
-
-</body>
-
+    anime
+      .timeline({ loop: true })
+      .add({
+        targets: ".ml1 .letter",
+        scale: [0.3, 1],
+        opacity: [0, 1],
+        translateZ: 0,
+        easing: "easeOutExpo",
+        duration: 600,
+        delay: (el, i) => 70 * (i + 1),
+      })
+      .add({
+        targets: ".ml1 .line",
+        scaleX: [0, 1],
+        opacity: [0.5, 1],
+        easing: "easeOutExpo",
+        duration: 700,
+        offset: "-=875",
+        delay: (el, i, l) => 80 * (l - i),
+      })
+      .add({
+        targets: ".ml1",
+        opacity: 0,
+        duration: 1000,
+        easing: "easeOutExpo",
+        delay: 1000,
+      });
+  </script>
 </html>
