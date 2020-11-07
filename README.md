@@ -89,4 +89,11 @@ The Project is released under the terms of the [MIT License](LICENSE).
   </p>
 </td>
 
+<td align="center"><a href=""><img src="WhatsApp Image 2020-11-07 at 5.34.07 PM.jpeg" width="230px;" height="230px;" alt=""/><br /><sub><b>KRETTIKA VARSHNEY</b></sub></a><br /><p align="center">
+    
+   <a href="" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  </p>
 </td>
+</tr>
