@@ -13,8 +13,8 @@
 
 </div>
 
-<div align = "center">
- <img width="40%" height="30%" src="Capture.PNG" alt="">
+<div align = "">
+ <img width="80%" height="70%" src="Capture.PNG" alt="">
 </div>
 
 ## COMMUNITY AND CONTRIBUTIONS:
